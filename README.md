@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaibhavPrasad23
-- 👀 On the way to crack Google.
+- 👀 On the way to crack the FAANG.
 - 🌱 I’m currently learning to code on java.
 - 📫 How to reach me vaibhav.prasad2@gmail.com
 
