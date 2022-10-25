@@ -4,7 +4,7 @@
 🌱 I’m currently exploring DevOps and Backend Development.
 👀 I’m looking to learn System Design and Web3 Concepts.
 💬 Ask me about Data Structures and Algorithms.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaibhavprasad23/) or [Mail ME](vaibhav.prasad2@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaibhavprasad23/)
 🥅 2022 Goals: Learn about Computer Networking, Object Oriented Design and Design Patterns.
 
 
