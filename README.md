@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @VaibhavPrasad23
-- 👀 On the way to crack the FAANG.
-- 🌱 I’m currently learning to code on java.
-- 📫 How to reach me vaibhav.prasad2@gmail.com
+###👋 Hi, I’m @VaibhavPrasad23
+
+🔭 I am preparing for Software Engineer Role.
+🌱 I’m currently exploring DevOps and Backend Development.
+👀 I’m looking to learn System Design and Web3 Concepts.
+💬 Ask me about Data Structures and Algorithms.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaibhavprasad23/) or [Mail ME](vaibhav.prasad2@gmail.com)
+🥅 2022 Goals: Learn about Computer Networking, Object Oriented Design and Design Patterns.
 
 <!---
 VaibhavPrasad23/VaibhavPrasad23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
