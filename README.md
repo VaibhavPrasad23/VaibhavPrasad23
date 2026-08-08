@@ -1,25 +1,20 @@
-# Hi, I'm Vaibhav Prasad 👋
+## Hi, I'm Vaibhav Prasad 👋  <a href="https://portfolio-vaib.vercel.app/">Know me better</a>
 
-### Software Engineer | Backend Developer | Java & .NET
 
-Software Engineer with experience building **backend systems, REST APIs, authentication systems, third-party API integrations, database-driven applications, and full-stack web solutions**.
+### Software Engineer | FullStack Developer | Java & .NET | React & Angular
 
-* 💻 Currently working as **SDE-1 at Policybazaar**
-* ⚙️ Experienced with **Java, Spring Boot, Spring Security, C#, .NET, ASP.NET, PHP, JavaScript and SQL**
-* 🔐 Built secure authentication systems using **JWT, Role-Based Access Control and Spring Security**
-* 🔌 Experienced in integrating **third-party APIs** and building backend services
-* 🗄️ Experienced with **MySQL, MongoDB, SQLite3, SQL Stored Procedures, Hibernate, ADO.NET and SQLAlchemy**
-* ⚡ Worked with **Apache Kafka** for backend data processing and optimization
-* 🧠 **LeetCode Knight** — 1874 Contest Rating, Top 5.43%, 284+ DSA & SQL problems solved
-* 🏆 **GeeksForGeeks — 513 institute rank, 209 problems solved**
-* 🌱 Currently exploring **System Design, Distributed Systems, DevOps, Cloud and scalable architectures**
-* 💡 Interested in **Backend Engineering, System Design and high-performance applications**
+Software Engineer with experience building **backend systems, REST APIs, authentication systems, third-party API integrations, database-driven applications and full-stack web solutions**.
 
----
+- 💻 **Full-Stack Engineer @ Policybazaar** — Backend by passion, Full-Stack by craft
+- ⚡ **Java | Spring Boot | .NET | React | SQL | Kafka**
+- 🤖 Exploring **AI, LLMs & AI-powered applications**
+- 🔐 Building **secure, scalable & high-performance systems**
+- 🧠 **LeetCode Knight** · 1874 · Top 5.43% · 284+ solved
+- 🚀 Learning **System Design · Distributed Systems · DevOps · Cloud**
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
+#### 👨‍💻 Programming Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -33,7 +28,7 @@ Software Engineer with experience building **backend systems, REST APIs, authent
 
 ---
 
-## 🚀 Backend & Frameworks
+#### 🚀 Backend & Frameworks
 
 <p align="left">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -48,7 +43,7 @@ Software Engineer with experience building **backend systems, REST APIs, authent
 
 ---
 
-## 🌐 Frontend
+#### 🌐 Frontend
 
 <p align="left">
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -61,7 +56,7 @@ Software Engineer with experience building **backend systems, REST APIs, authent
 
 ---
 
-## 🗄️ Databases & Data Access
+#### 🗄️ Databases & Data Access
 
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -71,13 +66,7 @@ Software Engineer with experience building **backend systems, REST APIs, authent
 <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-### Also experienced with
-
-`SQL Stored Procedures` `HQL` `LINQ` `SQLAlchemy` `Mongoose` `PhpMyAdmin`
-
----
-
-## 🔐 Security & APIs
+#### 🔐 Security & APIs
 
 <p align="left">
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -86,20 +75,9 @@ Software Engineer with experience building **backend systems, REST APIs, authent
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-**Experience with:**
 
-* REST API development
-* Third-party API integration
-* API automation and testing
-* JWT authentication
-* Role-Based Access Control
-* Secure Java APIs using JAX-RS
-* Database optimization
-* SQL Stored Procedures
 
----
-
-## 📨 Messaging & Backend Processing
+#### 📨 Messaging & Backend Processing
 
 <p align="left">
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -109,104 +87,14 @@ Experience with Kafka-based backend services and optimization of data processing
 
 ---
 
-# 💼 Professional Experience
+### 🏆 Competitive Programming
 
-## 🏢 Policybazaar — SDE-1
 
-**May 2025 – Present**
+#### 🧠 LeetCode
 
-* Architected and integrated multiple **third-party insurance APIs**, including financial and non-financial services.
-* Optimized database performance through **SQL Stored Procedures**.
-* Reduced processing time by **60%**.
-* Improved query execution speed by **40%**.
-* Rectified **15+ bugs weekly** and optimized insurance application code.
-* Contributed to a **30% decrease in user-reported issues**.
-* Improved overall application stability, maintainability and reliability.
+![LeetCode Stats](https://leetstat-ten.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages&theme=dark-smoky&hide_border=true)
 
----
-
-## 🏢 Clay TechSystems — Full Stack .NET Developer
-
-**March 2025 – May 2025**
-
-* Developed a high-performance **Trip.com API service** using **Spring Boot and Java**.
-* Improved data processing time by **15% through Kafka optimization**.
-* Developed a **role-based access control inventory management system**.
-* Used **ASP.NET, ADO.NET and SQL Stored Procedures**.
-* Built the system with security considerations for **150+ employees**.
-
----
-
-## 🏢 I-Cube Systems — Associate Software Developer
-
-**April 2024 – September 2024**
-
-* Developed a robust authentication system using **Spring Boot and Spring Security**.
-* Integrated **JWT authentication and Role-Based Access Control**.
-* Enabled secure logins with an average response time of approximately **2 seconds**.
-* Developed an authentication portal using:
-
-  * PHP
-  * Java
-  * Yii2
-  * Jersey
-  * Hibernate
-  * MySQL
-* Designed secure Java APIs using **JAX-RS**.
-* Optimized database interactions using **Hibernate**.
-* Developed frontend components using **HTML, CSS and JavaScript**.
-
----
-
-## 🏢 ThirdEye AI — Back End Developer Intern
-
-**JBM Group Company**
-**June 2023 – September 2023**
-
-* Implemented a database system for adding, editing and verifying user profiles.
-* Worked with **Python, SQLite3 and SQLAlchemy**.
-* Improved data retrieval speed by approximately **2 seconds**.
-* Built and managed a database using **MongoDB Atlas**.
-* Used **Mongoose Shell** for database operations.
-* Optimized query response times by **20%**.
-
----
-
-# 🧠 Core Computer Science
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Database Management Systems
-* Relational Database Management Systems
-* Computer Networks
-* Web Development
-* LINQ
-
----
-
-# 🏆 Competitive Programming
-
-## LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/VaibhavPrasad23/">
-    <img src="https://leetcard.jacoblin.cool/VaibhavPrasad23?theme=dark&font=baloo&ext=contest"/>
-  </a>
-</p>
-
-### 🟣 Knight
-
-| Achievement     |        Result |
-| --------------- | ------------: |
-| Contest Rating  |      **1874** |
-| Ranking         | **Top 5.43%** |
-| Problems Solved |      **284+** |
-| Badge           |    **Knight** |
-
----
-
-## GeeksForGeeks
+#### GeeksForGeeks
 
 * 🏅 **513 Institute Rank**
 * 🧩 **209 Problems Solved**
@@ -214,66 +102,7 @@ Experience with Kafka-based backend services and optimization of data processing
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavPrasad23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavPrasad23&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VaibhavPrasad23&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavPrasad23&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📚 Courses
-
-* Object Oriented Programming
-* Computer Networks
-* Operating System
-* Database Management System
-* Web Development
-* Google Data Analytics
-
----
-
-# 🎯 Currently Learning
-
-```text
-                    ┌─────────────────────┐
-                    │   System Design     │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Distributed Systems │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   Cloud & DevOps    │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Scalable Backend    │
-                    │    Architecture     │
-                    └─────────────────────┘
-```
-
----
-
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
