@@ -5,7 +5,7 @@
 - 👀 I’m looking to learn System Design and Web3 Concepts.
 - 💬 Ask me about Data Structures and Algorithms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaibhavprasad23/)
-- 🥅 2024 Goals: Learn about Computer Networking, Object Oriented Design and Design Patterns.
+- 🥅 Folio -> https://portfolio-vaib.vercel.app/
 
 
 <!---
