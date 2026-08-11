@@ -92,7 +92,7 @@ Experience with Kafka-based backend services and optimization of data processing
 
 #### 🧠 LeetCode
 
-![LeetCode Stats](https://leetstat-ten.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills%2Clanguages&theme=dark-smoky&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VaibhavPrasad23?theme=dark&font=Hanuman&ext=contest)
 
 #### GeeksForGeeks
 
