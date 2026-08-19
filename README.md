@@ -96,7 +96,7 @@ Experience with Kafka-based backend services and optimization of data processing
 
 #### GeeksForGeeks
 
-* 🏅 **513 Institute Rank**
+* 🏅 **513 Institute Coder Rank**
 * 🧩 **209 Problems Solved**
 * 📅 December 2023
 
